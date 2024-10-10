@@ -1,0 +1,55 @@
+Ludo Game in Python
+This is a simple Python-based Ludo game project that includes key modules to handle different parts of the game. The project is structured as follows:
+
+Key Files:
+board.py: Manages the Ludo game board, including the setup and display of the board and movement of the tokens.
+main.py: The starting point of the game. It initializes the game and controls the flow of the gameplay.
+settings.py: Holds all the settings like game rules or player configurations.
+Requirements
+Before you run the project, make sure you have:
+
+Python 3.x installed
+Any required Python packages (you can find them in requirements.txt)
+Installation
+To set up the project on your local machine:
+
+
+How to Run
+To start the Ludo game, simply run:
+
+bash
+Copy code
+python main.py
+Enjoy playing the Ludo game! The game will guide you on how to proceed.
+
+Configuration
+You can tweak some game settings by editing the settings.py file, such as:
+
+Number of players
+Game rules
+Make changes based on your preferences.
+
+File Descriptions
+board.py: Handles all the board-related operations like drawing the board and moving pieces.
+
+Function 1: Sets up the initial board.
+Function 2: Manages token movement.
+main.py: The core of the game, managing turns, players, and overall flow.
+
+Component 1: Initializes the game.
+Component 2: Controls game logic and player interactions.
+settings.py: Stores game settings like the number of players and any custom rules.
+
+Contributing
+Want to improve this project? Follow these simple steps:
+
+Fork the project.
+Create a new feature branch (git checkout -b new-feature).
+Commit your changes (git commit -m 'Add new feature').
+Push the changes (git push origin new-feature).
+Open a pull request.
+License
+This project is licensed under the MIT License.
+
+Contact
+Created by Jinay. If you have any questions or ideas, feel free to reach out at 31230035@vupune.ac.in.
